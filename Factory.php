@@ -2,11 +2,10 @@
 
 /**
  * Factory design pattern example
- * 
+ * Refer to Readme for benefits of using factory pattern
  * @author Anil Kumar (https://github.com/anil-ajax)
  * This code follow PSR standards (https://github.com/anil-ajax/psr-standards)
  */
-
 
 class Car
 {
